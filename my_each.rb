@@ -1,3 +1,3 @@
-def my_each (collection)
-
+def my_each (collection) do |i|
+  puts i
 end
